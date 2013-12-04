@@ -3,13 +3,13 @@
   <format_revision>1</format_revision>
 
   <update>
-    <state>unstable</state>
-    <version>1.2.0</version>
+    <state>stable</state>
+    <version>1.2.1</version>
     <supported_hardware>1</supported_hardware>
-    <checksum type="sha1"></checksum>
-    <timestamp></timestamp>
-    <filename>colorhug-1.2.0.bin</filename>
-    <size></size>
+    <checksum type="sha1">aa31655f92a792913b16fb9024b111b91fb84726</checksum>
+    <timestamp>1386190931</timestamp>
+    <filename>colorhug-1.2.1.bin</filename>
+    <size>15424</size>
     <changelog>
      <info>
       Use the new USB vendor and product IDs assigned to Hughski Limited
@@ -33,8 +33,7 @@
       Many thanks to Vernon Tang for working out the problem.
      </info>
      <info>
-      Switch to using make to generate the firmware using the microchip
-      toolchain on Linux, or optionally sdcc.
+      Update the Microchip Application Libraries to v2013-06-15.
      </info>
      <warning>
       You need to check that any client accessing the hardware has
