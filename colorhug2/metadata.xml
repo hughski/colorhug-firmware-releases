@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+  <format_revision>1</format_revision>
+
+  <update>
+    <state>stable</state>
+    <version>2.0.0</version>
+    <supported_hardware>1</supported_hardware>
+    <checksum type="sha1">40cc607530b2c83aa7b36f908df1c862e271919b</checksum>
+    <timestamp>1410515610</timestamp>
+    <filename>colorhug-2.0.0.bin</filename>
+    <size>13504</size>
+    <changelog>
+     <info>
+      Initial firmware release
+     </info>
+    </changelog>
+  </update>
+
+</updates>
